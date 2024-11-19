@@ -27,10 +27,8 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    git clone https://github.com/yourusername/your-project.git
    cd your-project
-   
 
    From this point, install Tailwind CSS in your project using the following command:
-    ```bash
     npx tailwindcss init
     npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
     npm run dev
