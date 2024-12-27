@@ -11,7 +11,7 @@ A modern and responsive UI built with [Tailwind CSS](https://tailwindcss.com/). 
 
 ## 🚀 Demo
 
-"To view the demo, you can download and check the images inside the demo folder"
+"To view the [demo](https://bagheri-dev.github.io/travlog/)"
 
 ## 🛠️ Tech Stack
 
