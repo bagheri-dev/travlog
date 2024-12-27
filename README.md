@@ -25,8 +25,8 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-project.git
-   cd your-project
+   git clone [https://github.com/yourusername/your-project.git](https://github.com/bagheri-dev/travlog.git)
+   cd name-project
 
    From this point, install Tailwind CSS in your project using the following command:
     npx tailwindcss init
